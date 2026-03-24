@@ -1,5 +1,5 @@
 #  Student Performance Predictor & Personalized Academic Advisor  
-### *(VIT Bhopal Context)*
+### *(Mainly for VIT Bhopal Students,trained on there data !)*
 
 ---
 
